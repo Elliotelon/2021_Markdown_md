@@ -24,4 +24,27 @@ Ordered
     1. Item 3a 
     1. Item 3b
 
+[GitHub](http://github.com "깃허브")
+
+```kotlin 
+fun test() { 
+ println("Hello, World) 
+} 
+```
+
+As Grace Hopper said: 
+
+> I’ve always been more interested.  
+> in the future than in the past.
+
+*This text will be italic* 
+_This will also be italic_ 
+
+**This text will be bold** 
+__This will also be bold__ 
+
+*You **can** combine them*
+
 ![img_android](https://user-images.githubusercontent.com/66877317/126495903-15e9cef3-bb46-4307-b9b0-e6ba445a419e.jpg)
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/66877317/126498300-2a9c165c-3886-4f9d-8ed2-0928461e9618.gif)
